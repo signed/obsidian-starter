@@ -19,7 +19,7 @@
   ],
   "readableLineLength": false,
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "foldHeading": true,
   "foldIndent": true,
   "emacsyKeys": false,
