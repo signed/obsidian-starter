@@ -2,5 +2,9 @@
   "calendar",
   "nldates-obsidian",
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "frontmatter-markdown-links",
+  "advanced-rename-and-delete-handler",
+  "nested-properties",
+  "preserve-frontmatter-formatting"
 ]

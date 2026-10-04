@@ -19,9 +19,10 @@
   ],
   "readableLineLength": false,
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "foldHeading": true,
   "foldIndent": true,
   "emacsyKeys": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "visible"
 }
